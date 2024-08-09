@@ -134,10 +134,10 @@ https://archive.org/download/sony_playstation3_z
 
 **Dependencies**
 
-[sqlite3](https://www.sqlite.org/index.html) : a C library that provides functions for manipulating SQLite databases.
-[curl](https://curl.haxx.se/) : a command-line library that allows you to use communication protocols on the Internet, such as HTTP.
-[lynx](http://lynx.browser.org/) : a text-based web browser that allows you to navigate the Internet in a terminal environment.
-[axel](https://github.com/axel-download-accelerator/axel) : a fast download tool that allows you to download files from the Internet.
+[sqlite3](https://www.sqlite.org/index.html) : a C library that provides functions for manipulating SQLite databases.  
+[curl](https://curl.haxx.se/) : a command-line library that allows you to use communication protocols on the Internet, such as HTTP.  
+[lynx](http://lynx.browser.org/) : a text-based web browser that allows you to navigate the Internet in a terminal environment.  
+[axel](https://github.com/axel-download-accelerator/axel) : a fast download tool that allows you to download files from the Internet.  
 
 **Usage**
 
