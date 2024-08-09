@@ -6,7 +6,7 @@
 These ROMs are retrieved from [Archive.org](https://archive.org), a site that references
 numerous consoles, platforms, and applications related to emulation.
 
-[scrom](scrom.png)  
+![scrom](scrom.png)  
 
 This application was developed in Python with the GTK3 graphical library.
 The Bash script `scrom.sh` launches the application and manages the addition of new systems.
