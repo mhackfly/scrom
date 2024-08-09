@@ -5,6 +5,9 @@
 `Scrom` is an application that allows you to download ROMs for various emulation systems.
 These ROMs are retrieved from [Archive.org](https://archive.org), a site that references
 numerous consoles, platforms, and applications related to emulation.
+
+[scrom](scrom.png)  
+
 This application was developed in Python with the GTK3 graphical library.
 The Bash script `scrom.sh` launches the application and manages the addition of new systems.
 It scans the `/links` directory for new `.dat` files. These data files contain the system name,
